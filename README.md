@@ -9,4 +9,6 @@ Facial Expressions: With this project, users can gain insights into the emotions
 Face Landmarks: The project goes beyond basic face detection by utilizing advanced techniques to identify specific facial landmarks. By employing sophisticated algorithms, it accurately detects facial features such as eyes, nose, mouth, and eyebrows. Users can visualize these landmarks on the uploaded images, providing a detailed analysis of facial structure.
 
 HTML, CSS, and JavaScript Implementation: The project is implemented using a combination of HTML, CSS, and JavaScript to ensure a responsive and user-friendly web application. HTML provides the structure, CSS enhances the visual appeal with custom styling, and JavaScript powers the underlying functionality, making the project interactive and dynamic.
+# Library
+You can download the face-api.min.js library from face-api official repository.
 
