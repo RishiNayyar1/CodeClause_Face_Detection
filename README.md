@@ -11,4 +11,5 @@ Face Landmarks: The project goes beyond basic face detection by utilizing advanc
 HTML, CSS, and JavaScript Implementation: The project is implemented using a combination of HTML, CSS, and JavaScript to ensure a responsive and user-friendly web application. HTML provides the structure, CSS enhances the visual appeal with custom styling, and JavaScript powers the underlying functionality, making the project interactive and dynamic.
 # Library
 You can download the face-api.min.js library from face-api official repository.
+https://github.com/justadudewhohacks/face-api.js/
 
